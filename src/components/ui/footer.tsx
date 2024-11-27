@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <div className="flex flex-row justify-between bg-accent px-8  py-6">
       <div className="text-[0.8rem] opacity-75">
-        © 2023 Copyright <span className="font-semibold">FSW Store</span>
+        © 2023 Copyright <span className="font-semibold">NEXT Store</span>
       </div>
       <div className="flex items-center">
         <ul className="flex gap-3">

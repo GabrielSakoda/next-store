@@ -58,7 +58,7 @@ const Header = () => {
           <div>
             <Link href="/">
               <h1 className="text-base font-semibold lg:text-lg">
-                <span className="text-primary">FSW</span> Store
+                <span className="text-primary">NEXT</span> Store
               </h1>
             </Link>
           </div>
@@ -280,7 +280,7 @@ const Header = () => {
 
         <Link href="/">
           <h1 className="mt-2 text-lg font-semibold">
-            <span className="text-primary">FSW</span> Store
+            <span className="text-primary">NEXT</span> Store
           </h1>
         </Link>
 

@@ -10,7 +10,7 @@ import Sidebar from "./dashboard/components/sidebar";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "FSW Store",
+  title: "NEXT Store",
   description: "Os Melhores periféricos para seu PC",
 };
 
